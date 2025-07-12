@@ -1,0 +1,14 @@
+<!-- https://chatgpt.com/c/6828ba8d-d314-8008-88e8-611c244e141f -->
+<Project>
+  <PropertyGroup>
+    <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageVersion Include="Microsoft.NET.Test.Sdk" Version="17.2.0" />
+    <PackageVersion Include="NUnit" Version="3.13.3" />
+    <PackageVersion Include="NUnit3TestAdapter" Version="4.2.1" />
+    <PackageVersion Include="coverlet.collector" Version="3.1.2" />
+    <PackageVersion Include="SixLabors.ImageSharp" Version="1.0.4" />
+  </ItemGroup>
+</Project>
